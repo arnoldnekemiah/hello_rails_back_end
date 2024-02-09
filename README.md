@@ -129,8 +129,8 @@ You can check linter errors by running these commands:
 
 👤 **Ikonde Nekemiah Arnold**
 
-- GitHub: [@Zilola-Nazarova](https://github.com/arnoldnekemiah)
-- LinkedIn: [in/NazarovaZi](https://www.linkedin.com/in/arnoldnekemiah)
+- GitHub: [@Arnold_Nekemiah](https://github.com/arnoldnekemiah)
+- LinkedIn: [in/arnold](https://www.linkedin.com/in/arnoldnekemiah)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
